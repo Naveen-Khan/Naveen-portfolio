@@ -1,0 +1,958 @@
+==================================================
+PROJECTS — PREMIUM ANIMATED PROJECT SHOWCASE
+==================================================
+
+Redesign the Projects section as an interactive AI Engineering
+Project Showcase.
+
+The portfolio should contain MORE projects and should demonstrate
+Naveen's range across:
+
+- Generative AI
+- AI Agents
+- RAG
+- Computer Vision
+- Machine Learning
+- Clinical AI
+- Full-Stack AI
+- AI Automation
+- IoT / Edge AI
+
+Do NOT show all projects as simple cards in a static grid.
+
+Create an animated horizontal sliding project navigation system.
+
+==================================================
+1. PROJECT SECTION INTRO
+==================================================
+
+Eyebrow:
+
+SELECTED WORK · AI ENGINEERING
+
+Heading:
+
+"AI Systems I've Built."
+
+Supporting text:
+
+"From intelligent agents and clinical AI to RAG systems and
+computer vision, I build practical AI applications that connect
+models, data, APIs and real-world workflows."
+
+==================================================
+2. ANIMATED PROJECT SLIDER
+==================================================
+
+Create a large horizontal project slider.
+
+Desktop layout:
+
+---------------------------------------------------------
+
+        PROJECT 01        PROJECT 02        PROJECT 03
+        PROJECT 04        PROJECT 05        PROJECT 06
+
+                    ACTIVE PROJECT
+                         ↓
+
+---------------------------------------------------------
+
+The project navigation should behave like an animated sliding
+timeline.
+
+Example:
+
+01  ClinData Explorer
+02  McDonald's AI Agent
+03  CardioRisk AI
+04  Enterprise RAG Assistant
+05  Medical Image Classification
+06  SAFELINK
+07  Computer Vision Suite
+08  Sales Prediction
+
+==================================================
+3. SLIDING BAR
+==================================================
+
+Add a premium animated sliding bar above or below the project
+navigation.
+
+Example:
+
+01 ───────── 02 ───────── 03 ───────── 04
+                ▲
+             ACTIVE
+
+The active indicator should smoothly slide from one project to
+another.
+
+Animation:
+
+- Smooth spring animation
+- 400–700ms
+- Subtle easing
+- No abrupt movement
+
+When the user:
+
+- clicks a project
+- uses arrow buttons
+- swipes on mobile
+- scrolls through the project section
+
+the active indicator should move smoothly.
+
+==================================================
+4. AUTO SLIDE
+==================================================
+
+Optionally enable automatic project rotation.
+
+Recommended:
+
+Every 5–7 seconds.
+
+When the user interacts:
+
+Pause auto-slide.
+
+Resume after several seconds of inactivity.
+
+Provide:
+
+Previous
+Next
+
+buttons.
+
+Also allow direct navigation using project numbers.
+
+Do NOT make the automatic movement too fast.
+
+==================================================
+5. ACTIVE PROJECT ANIMATION
+==================================================
+
+When switching projects:
+
+Current project:
+
+opacity 1 → 0
+scale 1 → 0.97
+x → -20
+
+New project:
+
+opacity 0 → 1
+scale 0.97 → 1
+x 20 → 0
+
+Use a smooth transition.
+
+Project title, metrics and technology badges should have a
+slight staggered animation.
+
+==================================================
+6. PROJECT LAYOUT
+==================================================
+
+Each active project should occupy a large visual area.
+
+Layout:
+
+LEFT 45%
+
+Project number
+Category
+Project title
+Description
+Technology
+Metrics
+CTA
+
+RIGHT 55%
+
+Large interactive project visualization.
+
+Example:
+
+┌────────────────────────────────────────────────────────┐
+│                                                        │
+│  01                                                   │
+│  GENERATIVE AI · TEXT-TO-SQL                          │
+│                                                        │
+│  ClinData Explorer          ┌─────────────────────┐   │
+│                             │                     │   │
+│  AI-powered clinical       │  AI ARCHITECTURE    │   │
+│  research platform...      │                     │   │
+│                             │   LLM → SQL → DB    │   │
+│  [Case Study] [GitHub]     │                     │   │
+│                             └─────────────────────┘   │
+│                                                        │
+└────────────────────────────────────────────────────────┘
+
+==================================================
+7. PROJECT 01 — CLINDATA EXPLORER
+==================================================
+
+Title:
+
+ClinData Explorer
+
+Category:
+
+GENERATIVE AI · TEXT-TO-SQL · CLINICAL AI · FULL STACK
+
+Description:
+
+"AI-powered clinical research platform that enables researchers
+to explore clinical data using natural language."
+
+Visualize:
+
+Researcher
+    ↓
+Natural Language
+    ↓
+LLM
+    ↓
+Text-to-SQL
+    ↓
+SQL Validation
+    ↓
+Database
+    ↓
+Data Quality Engine
+    ↓
+AI Insights
+
+Animate small data particles moving through the pipeline.
+
+Metrics:
+
+912K+
+Patient Records
+
+10
+Clinical Tables
+
+12
+Data Quality Rules
+
+Technologies:
+
+Python
+FastAPI
+Next.js
+LLMs
+LangChain
+SQLite
+Docker
+Azure
+
+Buttons:
+
+[View Case Study]
+
+[GitHub]
+
+Only show GitHub if an actual URL exists.
+
+==================================================
+8. PROJECT 02 — McDONALD'S AI CUSTOMER SUPPORT AGENT
+==================================================
+
+Title:
+
+McDonald's AI Customer Support Agent
+
+Category:
+
+AI AGENT · AUTOMATION · CUSTOMER SUPPORT
+
+Description:
+
+"An AI-powered customer support agent designed to automate
+customer interactions and handle common support workflows."
+
+Visual concept:
+
+Customer
+   ↓
+AI Agent
+   ↓
+Intent Detection
+   ↓
+Knowledge / Workflow
+   ↓
+Response
+   ↓
+Customer
+
+Create an animated conversation interface.
+
+Example animation:
+
+Customer:
+"Where is my nearest restaurant?"
+
+AI Agent:
+"Let me help you find the nearest location."
+
+Then show:
+
+Intent detected
+Knowledge retrieved
+Response generated
+
+Make this look like a real AI agent interface.
+
+Do NOT claim specific business metrics unless provided.
+
+Technologies should ONLY include technologies actually used
+in the project.
+
+Project URL:
+
+https://machdonals-ai-agent.vercel.app
+
+CTA:
+
+[Live Demo]
+
+Open the link in a new tab.
+
+IMPORTANT:
+
+The URL must be displayed as a real clickable link.
+
+==================================================
+9. PROJECT 03 — CARDIORISK AI
+==================================================
+
+Title:
+
+CardioRisk AI
+
+Category:
+
+MACHINE LEARNING · CLINICAL AI · DECISION SUPPORT
+
+Description:
+
+"An intelligent clinical decision-support application that
+predicts heart disease risk using 13 clinical variables."
+
+Key information:
+
+97.6%
+Prediction Accuracy
+
+3,800+
+Patient Records
+
+13
+Clinical Variables
+
+Model:
+
+Support Vector Machine (SVM)
+
+Baseline:
+
+Logistic Regression
+80.5% Accuracy
+
+Features:
+
+- Real-time risk stratification
+- Clinical prediction interface
+- PDF report generation
+- CSV export
+- Excel export
+- Model comparison
+
+Visual:
+
+Create an animated clinical risk dashboard.
+
+Example:
+
+Patient Data
+      ↓
+13 Clinical Variables
+      ↓
+SVM Model
+      ↓
+Risk Prediction
+      ↓
+Clinical Report
+
+Show a professional risk visualization.
+
+Do NOT make medical claims beyond the project's stated
+decision-support purpose.
+
+Technologies:
+
+Machine Learning
+Python
+Next.js
+SQLite
+Tailwind CSS
+Vercel
+
+Live Demo:
+
+https://web-un87u2afa-naveenkhan0111-4662s-projects.vercel.app/
+
+CTA:
+
+[Live Demo]
+
+==================================================
+10. PROJECT 04 — ENTERPRISE RAG AI ASSISTANT
+==================================================
+
+Title:
+
+Enterprise RAG AI Assistant
+
+Category:
+
+GENERATIVE AI · RAG · LLM · SEMANTIC SEARCH
+
+Description:
+
+"Enterprise conversational AI system designed to retrieve
+information from organizational documents using semantic search
+and Retrieval-Augmented Generation."
+
+Visual:
+
+100+ PDFs
+     ↓
+Document Processing
+     ↓
+Chunking
+     ↓
+Embeddings
+     ↓
+Vector Search
+     ↓
+Relevant Context
+     ↓
+LLM
+     ↓
+Answer
+
+Metrics:
+
+100+
+Documents Indexed
+
+60%
+Faster Query Resolution
+
+Create animated document cards entering the RAG pipeline.
+
+Technologies:
+
+Python
+FastAPI
+LangChain
+RAG
+NLP
+LLMs
+Hugging Face
+.NET
+
+==================================================
+11. PROJECT 05 — MEDICAL IMAGE CLASSIFICATION
+==================================================
+
+Title:
+
+Medical Image Classification
+
+Category:
+
+COMPUTER VISION · DEEP LEARNING · MEDICAL AI
+
+Description:
+
+"Deep learning-based medical image classification system
+developed for automated image analysis."
+
+Model:
+
+CNN / DenseNet-based architecture
+
+Display model inference visually.
+
+Animation:
+
+Medical Image
+      ↓
+Preprocessing
+      ↓
+CNN / DenseNet
+      ↓
+Feature Extraction
+      ↓
+Classification
+      ↓
+Prediction
+
+Show an image-analysis interface rather than generic
+technology cards.
+
+Highlight:
+
+93%+
+Accuracy
+
+Technologies:
+
+Python
+PyTorch
+TensorFlow
+Deep Learning
+CNN
+Computer Vision
+
+Only include technologies actually associated with this project.
+
+==================================================
+12. PROJECT 06 — SAFELINK
+==================================================
+
+Title:
+
+SAFELINK
+
+Category:
+
+EDGE AI · COMPUTER VISION · IoT · RESEARCH
+
+Description:
+
+"Multimodal smart wearable system designed for personal safety
+using computer vision, speech recognition, GPS and GSM."
+
+Architecture:
+
+Camera
+ ↓
+YOLOv8
+ ↓
+Threat Detection
+ ↓
+Raspberry Pi
+ ↓
+GPS
+ ↓
+GSM
+ ↓
+Emergency Alert
+
+Animate the data flow.
+
+Show a subtle wearable/device visualization.
+
+Metrics:
+
+95%
+Threat Detection Accuracy
+
+<5 sec
+Alert Response
+
+2nd Place
+IEEE CS Exhibition 2025
+
+45+
+Projects
+
+Also display:
+
+Published Research — 2026
+
+CTA:
+
+[View Research]
+
+==================================================
+13. PROJECT 07 — COMPUTER VISION SUITE
+==================================================
+
+Title:
+
+Computer Vision Model Suite
+
+Category:
+
+COMPUTER VISION · DEEP LEARNING
+
+Create a tabbed interactive interface.
+
+Tabs:
+
+MEDICAL
+ROAD
+THEFT
+
+When the user selects:
+
+MEDICAL:
+
+Medical Image Classification
+
+ROAD:
+
+Damaged Road Detection
+
+THEFT:
+
+Theft Detection
+
+Highlight:
+
+10,000+
+Images
+
+93%+
+Accuracy
+
+Animate model inference using subtle scanning / bounding-box
+effects.
+
+==================================================
+14. PROJECT 08 — SALES PREDICTION
+==================================================
+
+Title:
+
+Sales Prediction App
+
+Category:
+
+MACHINE LEARNING · PREDICTIVE ANALYTICS
+
+Description:
+
+"Machine learning application for sales prediction using
+polynomial regression."
+
+Show:
+
+Input Data
+   ↓
+Feature Processing
+   ↓
+Polynomial Regression
+   ↓
+Prediction
+   ↓
+Visualization
+
+Display model metrics if available:
+
+R²
+Cross Validation
+RMSE
+MAE
+
+Create an animated prediction graph.
+
+CTA:
+
+[View Project]
+
+Only include metrics that are verified in the project data.
+
+==================================================
+15. PROJECT FILTER
+==================================================
+
+Add an interactive category filter.
+
+Categories:
+
+ALL
+GENERATIVE AI
+AI AGENTS
+RAG
+COMPUTER VISION
+MACHINE LEARNING
+FULL STACK
+RESEARCH
+AUTOMATION
+
+Example:
+
+[ALL] [GEN AI] [AGENTS] [RAG] [VISION] [ML]
+
+When a category is selected:
+
+Projects animate smoothly.
+
+Use layout animation.
+
+Do not reload the page.
+
+==================================================
+16. PROJECT COUNTER
+==================================================
+
+At the top of the project section display:
+
+08
+Selected Projects
+
+Then:
+
+"Across AI, ML, Computer Vision, Automation & Full-Stack
+Engineering."
+
+Animate the number when the section enters the viewport.
+
+==================================================
+17. PROJECT DETAIL MODAL
+==================================================
+
+Clicking a project opens a full-screen case-study experience.
+
+Animation:
+
+Card expands into viewport.
+
+Background becomes slightly blurred.
+
+Project content appears sequentially.
+
+Sections:
+
+Overview
+Problem
+Solution
+Architecture
+Implementation
+Technology
+Results
+Challenges
+Learnings
+Demo / GitHub
+
+Close button:
+
+X
+
+ESC key should close the modal.
+
+Mobile:
+
+The modal should behave like a full-screen page.
+
+==================================================
+18. PROJECT IMAGE / DEMO PREVIEW
+==================================================
+
+If screenshots or actual project images are available:
+
+Display them prominently.
+
+Add:
+
+"Interactive Preview"
+
+Hover:
+
+Image slightly zooms.
+
+Overlay:
+
+VIEW PROJECT →
+
+Do not use random stock images.
+
+If project screenshots are not available:
+
+Create abstract technical UI visualizations.
+
+==================================================
+19. MOBILE SLIDER
+==================================================
+
+On mobile:
+
+Use horizontal swipe gestures.
+
+Show:
+
+←  03 / 08  →
+
+Project card occupies approximately 90% viewport width.
+
+Allow:
+
+Swipe left → next project
+Swipe right → previous project
+
+The project navigation becomes:
+
+01 02 03 04 05 06 07 08
+
+with horizontal scrolling.
+
+==================================================
+20. SLIDER PROGRESS
+==================================================
+
+Add a progress indicator.
+
+Example:
+
+PROJECT 03 / 08
+
+━━━━━━━━━━━━━━░░░░░
+
+Animate progress as the active project changes.
+
+==================================================
+21. MOUSE INTERACTION
+==================================================
+
+On desktop:
+
+Project visualization may respond subtly to mouse movement.
+
+Use very small:
+
+translateX
+translateY
+scale
+
+values.
+
+Do NOT create excessive 3D movement.
+
+The interaction should feel premium.
+
+==================================================
+22. PROJECT TRANSITION SOUND
+==================================================
+
+Do NOT automatically play sound.
+
+No audio should play without explicit user interaction.
+
+==================================================
+23. PERFORMANCE
+==================================================
+
+Important:
+
+The slider must remain fast.
+
+Use:
+
+Framer Motion
+CSS transforms
+opacity
+GPU-friendly animation
+
+Avoid:
+
+Large WebGL scenes
+Heavy particle systems
+Continuous expensive calculations
+
+Lazy-load project images.
+
+Pause unnecessary animations when projects are not visible.
+
+==================================================
+24. RECRUITER-FIRST INFORMATION
+==================================================
+
+Every project must communicate these five things quickly:
+
+WHAT WAS BUILT?
+
+WHY WAS IT BUILT?
+
+HOW WAS IT BUILT?
+
+WHAT TECHNOLOGIES WERE USED?
+
+WHAT WAS THE RESULT?
+
+Do not force recruiters to read long paragraphs.
+
+Use:
+
+short descriptions
+architecture diagrams
+metrics
+technology chips
+case-study sections
+
+==================================================
+25. PROJECT PRIORITY
+==================================================
+
+Order projects by recruiter impact:
+
+01 ClinData Explorer
+02 McDonald's AI Customer Support Agent
+03 CardioRisk AI
+04 Enterprise RAG AI Assistant
+05 Medical Image Classification
+06 SAFELINK
+07 Computer Vision Model Suite
+08 Sales Prediction
+
+The first 3 projects should receive the most visual attention.
+
+==================================================
+26. PROJECT SECTION END
+==================================================
+
+After the final project:
+
+Heading:
+
+"Have an AI problem worth solving?"
+
+Supporting text:
+
+"I build intelligent applications that connect AI models,
+data and software into practical products."
+
+Buttons:
+
+[Let's Work Together]
+[View Resume]
+
+==================================================
+27. ANIMATION PRINCIPLE
+==================================================
+
+Animation should communicate:
+
+DATA
+FLOW
+INTELLIGENCE
+ENGINEERING
+PROGRESS
+
+Animation should NOT exist merely for decoration.
+
+Every major animation must have a purpose.
+
+The final experience should feel like an interactive AI
+engineering portfolio rather than a conventional developer
+portfolio.

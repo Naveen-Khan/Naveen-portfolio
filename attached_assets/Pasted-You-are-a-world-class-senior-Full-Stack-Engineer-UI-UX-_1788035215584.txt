@@ -1,0 +1,1338 @@
+You are a world-class senior Full-Stack Engineer, UI/UX Designer, Product Designer, and AI Engineer with 20+ years of experience building high-quality production web applications.
+
+Your task is to design and develop a premium, modern, recruiter-focused personal portfolio website for:
+
+NAME:
+Naveen Khan
+
+PROFESSION:
+AI Engineer | Full-Stack AI Engineer | Machine Learning Engineer
+
+LOCATION:
+Karachi, Pakistan
+
+EMAIL:
+naveenkhan0059@gmail.com
+
+PHONE:
++92 301 3586403
+
+==================================================
+1. PRIMARY OBJECTIVE
+==================================================
+
+Build a visually impressive, highly professional AI Engineer portfolio that immediately communicates:
+
+1. Who Naveen is
+2. What type of AI systems she builds
+3. Her strongest technical skills
+4. Her real-world engineering experience
+5. Her measurable project impact
+6. Her research/publication work
+7. Her ability to build complete production systems
+8. How recruiters can contact or hire her
+
+The website must be optimized primarily for:
+
+- AI Engineer recruiters
+- Machine Learning Engineer recruiters
+- Full-Stack AI Engineer recruiters
+- Software Engineering recruiters
+- AI/ML startups
+- Engineering managers
+- Technical founders
+- Research/AI teams
+
+The website should make a recruiter understand Naveen's value within the first 10 seconds.
+
+Do NOT make the website look like a generic student portfolio.
+
+It should feel like the portfolio of an emerging professional AI Engineer who can build real-world AI products.
+
+==================================================
+2. DESIGN DIRECTION
+==================================================
+
+Create a premium futuristic AI/technology aesthetic.
+
+Design inspiration:
+
+- Modern AI startup websites
+- Linear
+- Vercel
+- Anthropic
+- OpenAI
+- Stripe
+- High-end engineering portfolios
+- Dark developer interfaces
+- Editorial typography
+- Minimal futuristic dashboards
+
+Do NOT directly copy any existing website.
+
+Use the attached portfolio screenshot only as general visual inspiration.
+
+The design should be:
+
+- Minimal
+- Elegant
+- Premium
+- Technical
+- Futuristic
+- Recruiter-friendly
+- Highly readable
+- Professional
+- Responsive
+
+Avoid:
+
+- Excessive neon colors
+- Excessive animations
+- Giant unnecessary text
+- Random 3D objects
+- Overloaded gradients
+- Generic stock images
+- Cartoon-style illustrations
+- Excessive glassmorphism
+- Skill percentage bars
+- Fake statistics
+- Fake testimonials
+- Fake clients
+- Fake experience
+- Fake certifications
+
+The design should communicate:
+"She builds serious AI systems."
+
+==================================================
+3. COLOR SYSTEM
+==================================================
+
+Primary theme:
+
+Dark-first design.
+
+Background:
+Near-black / charcoal
+
+Primary text:
+Off-white
+
+Secondary text:
+Muted gray
+
+Accent:
+Use ONE sophisticated AI accent color.
+
+Recommended:
+Lime/acid green OR electric blue.
+
+Do not use too many accent colors.
+
+Use subtle gradients only where they improve hierarchy.
+
+Use subtle borders and soft shadows.
+
+Cards should feel like modern SaaS/AI infrastructure interfaces.
+
+==================================================
+4. TYPOGRAPHY
+==================================================
+
+Use a premium modern sans-serif font.
+
+Preferred:
+
+- Inter
+- Geist
+- Manrope
+- Satoshi
+
+Use strong typography hierarchy.
+
+Hero heading:
+Large and bold.
+
+Section headings:
+Clear and editorial.
+
+Body:
+Comfortable reading width.
+
+Technical information:
+Use monospace typography selectively.
+
+==================================================
+5. WEBSITE ARCHITECTURE
+==================================================
+
+Build a MULTI-PAGE website.
+
+Required pages:
+
+1. Home
+2. About
+3. Experience
+4. Projects
+5. Research / Publications
+6. Skills / Tech Stack
+7. Contact
+
+Optional:
+
+8. Resume
+
+Navigation should be persistent and elegant.
+
+Desktop navigation:
+
+[Logo/Name] 
+Home
+About
+Experience
+Projects
+Research
+Skills
+Contact
+
+Right side:
+"Let's Talk" / "Hire Me"
+
+Mobile:
+Use a clean animated hamburger menu.
+
+==================================================
+6. HOME PAGE
+==================================================
+
+The homepage is the most important page.
+
+The first screen must immediately communicate:
+
+Naveen Khan
+AI Engineer
+
+Suggested hero copy:
+
+"Building AI Systems That Solve Real Problems."
+
+Alternative:
+
+"AI Engineer Building Intelligent, Production-Ready Systems."
+
+Supporting text:
+
+"AI Engineer specializing in LLM applications, RAG, Computer Vision, Text-to-SQL, and AI-powered backend systems."
+
+Add CTA buttons:
+
+[View My Work]
+[Download Resume]
+
+Secondary CTA:
+
+[Let's Connect]
+
+Add social links:
+
+GitHub
+LinkedIn
+Email
+
+Do NOT invent URLs.
+Use placeholders if actual URLs are unavailable:
+
+GITHUB_URL
+LINKEDIN_URL
+
+==================================================
+7. HERO VISUAL
+==================================================
+
+Create a sophisticated AI-inspired visual.
+
+Possible design:
+
+An interactive AI system visualization showing:
+
+User Query
+      ↓
+LLM
+      ↓
+RAG / Agents
+      ↓
+FastAPI
+      ↓
+Database / Vector DB
+      ↓
+AI Response
+
+OR create a subtle animated neural/network visualization.
+
+The visual should be lightweight and performant.
+
+Do not make the hero visually overwhelming.
+
+The hero should work perfectly without JavaScript-heavy effects.
+
+==================================================
+8. HERO TRUST / IMPACT METRICS
+==================================================
+
+Immediately below the hero, display real measurable achievements.
+
+Use only information supported by the CV.
+
+Metrics:
+
+93%+
+Computer Vision Model Accuracy
+
+60%
+Reduction in Internal Query Resolution Time
+
+912K+
+Patient Records Processed
+
+100+
+Organizational PDFs Indexed
+
+95%
+Real-Time Threat Detection Accuracy
+
+2nd Place
+IEEE CS Exhibition 2025
+
+These should be presented as elegant statistic cards.
+
+Do NOT use fake numbers.
+
+==================================================
+9. ABOUT PAGE
+==================================================
+
+Create a professional About page.
+
+Headline:
+
+"Engineer. Researcher. AI Builder."
+
+Explain that Naveen is an AI Engineer with experience building production-oriented AI systems across:
+
+- Generative AI
+- LLM applications
+- RAG
+- Text-to-SQL
+- Computer Vision
+- Backend engineering
+- AI automation
+- IoT/edge AI
+
+Use a concise professional narrative.
+
+Do not make the biography unnecessarily long.
+
+Add:
+
+Education
+
+BE Computer Systems Engineering
+Mehran University of Engineering & Technology
+2021–2025
+
+==================================================
+10. EXPERIENCE PAGE
+==================================================
+
+Create an interactive professional timeline.
+
+Each experience should have:
+
+Company
+Role
+Date
+Short description
+Impact
+Technology stack
+
+Experience #1
+
+Full Stack AI Engineer
+AI Hackathon — Sofstica Solutions (Pvt.) Ltd
+08/2026
+
+Highlights:
+
+- Built a clinical research platform with Text-to-SQL.
+- Engineered an end-to-end Data Quality Engine.
+- Processed 912,284 patient records.
+- Implemented provenance tracking.
+- Built FastAPI + Next.js application.
+- Added LLM-powered natural language interfaces.
+- Supported real-time cohort exploration and AI-generated summaries.
+
+Technologies:
+
+Python
+FastAPI
+Next.js
+SQLite
+LLMs
+LangChain
+Docker
+Azure
+
+
+Experience #2
+
+AI Engineer Intern
+Itsolera Pvt. Ltd.
+01/2026 – 04/2026
+
+Highlights:
+
+- Trained CNN and YOLO-based Computer Vision models.
+- Worked across medical image classification.
+- Damaged road detection.
+- Theft detection.
+- Used 10,000+ images.
+- Achieved 93%+ accuracy.
+- Used systematic hyperparameter optimization.
+- Automated repetitive data workflows.
+- Reduced manual processing time by approximately 40%.
+
+Technologies:
+
+Python
+Deep Learning
+FastAPI
+Streamlit
+Roboflow
+Computer Vision
+
+
+Experience #3
+
+AI Engineer Intern
+Civil Aviation Authority of Pakistan
+07/2025 – 08/2025
+
+Highlights:
+
+- Engineered an enterprise conversational AI system.
+- Reduced internal query resolution time by 60%.
+- Built semantic retrieval architecture.
+- Implemented RAG.
+- Indexed 100+ organizational PDFs.
+- Worked with embeddings and document retrieval.
+- Collaborated on AI workflows and model integration.
+
+Technologies:
+
+Python
+FastAPI
+LangChain
+RAG
+NLP
+LLMs
+Hugging Face
+.NET
+
+
+Experience #4
+
+AI Research
+Multimodal Smart Wearable for Personal Safety
+11/2024 – 11/2025
+
+Highlights:
+
+- Developed an AI-powered smart wearable.
+- Implemented YOLO-based robbery/threat detection.
+- Multilingual speech recognition.
+- Evidence capturing.
+- GPS/GSM emergency response.
+- Achieved 95% real-time threat detection accuracy.
+- Alert response time under 5 seconds.
+- Won 2nd Place at IEEE CS Exhibition 2025 among 45+ projects.
+- Research paper published internationally in 2026.
+
+Technologies:
+
+Python
+PyTorch
+YOLOv8
+Raspberry Pi 4
+ESP32
+IoT
+GPS/GSM
+Computer Vision
+
+==================================================
+11. PROJECTS PAGE
+==================================================
+
+This must be one of the strongest pages.
+
+Do NOT display projects as simple cards only.
+
+Create detailed case-study style project pages.
+
+Every project should communicate:
+
+Problem
+Solution
+Architecture
+Technology
+Engineering challenges
+Results
+Screenshots/demo
+GitHub
+Live Demo
+
+Only show links when they actually exist.
+
+==================================================
+PROJECT CASE STUDY 1
+==================================================
+
+Title:
+
+ClinData Explorer
+
+Category:
+
+AI | Generative AI | Text-to-SQL | Healthcare | Full Stack
+
+Description:
+
+An AI-powered clinical research platform that allows researchers to interact with clinical datasets using natural language.
+
+Features:
+
+- Natural language cohort definition
+- Text-to-SQL
+- AI-generated queries
+- Data quality analysis
+- Provenance tracking
+- Cohort exploration
+- AI-generated summaries
+- FastAPI backend
+- Next.js frontend
+
+Impact:
+
+912,284 patient records
+10 clinical tables
+End-to-end data quality engine
+
+Technology:
+
+Python
+FastAPI
+Next.js
+LLMs
+LangChain
+SQLite
+Docker
+Azure
+
+Create a visual architecture:
+
+Researcher
+↓
+Natural Language Query
+↓
+LLM / Text-to-SQL
+↓
+SQL Validation
+↓
+Database
+↓
+Data Quality Engine
+↓
+Results + AI Summary
+
+
+==================================================
+PROJECT CASE STUDY 2
+==================================================
+
+Title:
+
+Enterprise RAG AI Assistant
+
+Category:
+
+Generative AI | RAG | LLM | Enterprise AI
+
+Description:
+
+An enterprise conversational AI system developed during the Civil Aviation Authority internship.
+
+Features:
+
+- Document ingestion
+- Semantic chunking
+- Embeddings
+- Vector search
+- RAG
+- LLM response generation
+- Enterprise knowledge retrieval
+
+Impact:
+
+100+ organizational PDFs
+60% reduction in internal query resolution time
+
+Technology:
+
+Python
+FastAPI
+LangChain
+RAG
+Hugging Face
+LLMs
+.NET
+
+Show a RAG architecture diagram visually.
+
+
+==================================================
+PROJECT CASE STUDY 3
+==================================================
+
+Title:
+
+Multimodal Smart Wearable for Personal Safety
+
+Category:
+
+Computer Vision | Edge AI | IoT | Research
+
+Description:
+
+AI-powered wearable safety system combining computer vision, speech recognition, evidence capture, GPS/GSM communication and emergency response.
+
+Features:
+
+- YOLO-based threat detection
+- Multilingual speech recognition
+- Camera-based evidence capture
+- GPS location tracking
+- GSM emergency communication
+- Raspberry Pi
+- ESP32
+
+Results:
+
+95% threat detection accuracy
+Under 5-second alert response
+2nd Place IEEE CS Exhibition 2025
+45+ competing projects
+
+Technology:
+
+Python
+PyTorch
+YOLOv8
+Raspberry Pi
+ESP32
+GPS/GSM
+Computer Vision
+IoT
+
+
+==================================================
+PROJECT CASE STUDY 4
+==================================================
+
+Title:
+
+Computer Vision Model Suite
+
+Category:
+
+Machine Learning | Deep Learning | Computer Vision
+
+Description:
+
+A collection of computer vision solutions developed for multiple domains.
+
+Domains:
+
+- Medical image classification
+- Damaged road detection
+- Theft detection
+
+Scale:
+
+10,000+ images
+
+Result:
+
+93%+ model accuracy
+
+Technology:
+
+Python
+CNN
+YOLO
+Roboflow
+Deep Learning
+FastAPI
+Streamlit
+
+
+==================================================
+12. RESEARCH PAGE
+==================================================
+
+Create a dedicated Research & Publications page.
+
+Headline:
+
+"Research That Leaves the Lab."
+
+Publication:
+
+Khan, N., et al. (2026).
+"SAFELINK: A Multimodal Smart Wearable Device for Personal Safety."
+
+THESES: International Journal of Multidisciplinary Research.
+
+Display:
+
+Publication title
+Authors
+Year
+Journal
+Research area
+Abstract/summary
+Technologies
+PDF/DOI link if available
+
+Do not invent DOI or publication URL.
+
+If the actual publication link is unavailable, display:
+
+"Publication link coming soon"
+
+Also show the IEEE CS Exhibition achievement.
+
+==================================================
+13. SKILLS PAGE
+==================================================
+
+Do NOT use boring percentage bars.
+
+Instead create an interactive technology ecosystem.
+
+Categories:
+
+AI / ML
+
+Python
+Machine Learning
+Deep Learning
+Computer Vision
+TensorFlow
+PyTorch
+YOLOv8
+
+Generative AI
+
+LLMs
+RAG
+AI Agents
+LangChain
+Prompt Engineering
+LLM API Integration
+Semantic Retrieval
+Text-to-SQL
+
+Backend
+
+FastAPI
+Python
+.NET
+
+Frontend
+
+HTML
+CSS
+JavaScript
+Next.js
+Vercel
+Streamlit
+
+Databases
+
+MySQL
+PostgreSQL
+SQLite
+FAISS
+Pinecone
+Vector Databases
+
+Automation
+
+n8n
+Workflow Automation
+JSON
+
+Infrastructure
+
+Docker
+Azure
+Git
+GitHub
+
+Create a visual "AI Engineering Stack" section showing how these technologies connect.
+
+
+==================================================
+14. CONTACT PAGE
+==================================================
+
+Make contacting Naveen extremely easy.
+
+Headline:
+
+"Have an AI Problem Worth Solving?"
+
+Supporting text:
+
+"Whether you're building an AI product, automating a workflow, or exploring an intelligent application, let's connect."
+
+Contact options:
+
+Email
+LinkedIn
+GitHub
+
+Create a professional contact form:
+
+Name
+Email
+Company
+Message
+
+Button:
+
+"Send Message"
+
+Form should have proper validation.
+
+Do not create fake backend functionality.
+
+If no backend/email service is configured, provide a clean mailto fallback.
+
+==================================================
+15. RESUME
+==================================================
+
+Add:
+
+"Download Resume"
+
+The button should point to:
+
+RESUME_URL
+
+Do not invent a URL.
+
+If the PDF can be bundled with the application, use the actual resume PDF.
+
+==================================================
+16. AI PORTFOLIO ASSISTANT
+==================================================
+
+Add an optional AI assistant widget.
+
+Position:
+
+Bottom-right.
+
+Title:
+
+"Ask Naveen's AI"
+
+Example greeting:
+
+"Hi! I'm Naveen's portfolio assistant. Ask me about her AI projects, experience, skills, or research."
+
+Suggested questions:
+
+"What AI projects has Naveen built?"
+"Tell me about her RAG experience."
+"What Computer Vision work has she done?"
+"Tell me about ClinData Explorer."
+"What technologies does she use?"
+"How can I contact Naveen?"
+
+IMPORTANT:
+
+The assistant must ONLY answer using information contained in the portfolio.
+
+Do not hallucinate:
+
+- Employment
+- Companies
+- Skills
+- Salaries
+- Certifications
+- Awards
+- Projects
+- Clients
+- Technologies
+
+If information is unavailable:
+
+"I don't have that information in Naveen's portfolio."
+
+==================================================
+17. NAVIGATION UX
+==================================================
+
+Use a sticky navigation bar.
+
+On scroll:
+
+- Slight background blur
+- Subtle border
+- Compact height
+
+Navigation should clearly indicate the active page.
+
+Use smooth scrolling where appropriate.
+
+Add a progress indicator if it improves UX.
+
+==================================================
+18. ANIMATIONS
+==================================================
+
+Use animations carefully.
+
+Preferred:
+
+- Fade-in
+- Slide-up
+- Staggered card reveal
+- Subtle hover effects
+- Smooth page transitions
+- Text reveal
+- Number counter for real metrics
+- Subtle AI/network animation
+
+Avoid:
+
+- Excessive bouncing
+- Constant motion
+- Large parallax effects
+- Distracting 3D animations
+- Slow page loading
+
+Respect:
+
+prefers-reduced-motion
+
+==================================================
+19. RESPONSIVE DESIGN
+==================================================
+
+The website must be excellent on:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+Do NOT simply shrink the desktop design.
+
+Design mobile layouts intentionally.
+
+On mobile:
+
+Hero typography should remain readable.
+
+Project cards should stack.
+
+Navigation becomes hamburger menu.
+
+Metrics should become 2-column or 1-column.
+
+Contact form becomes single column.
+
+==================================================
+20. PERFORMANCE
+==================================================
+
+Build a production-quality application.
+
+Requirements:
+
+- Fast initial load
+- Lazy-load images
+- Optimized assets
+- Minimal JavaScript
+- Avoid unnecessary libraries
+- Semantic HTML
+- Good Core Web Vitals
+- Responsive images
+- Accessible interactions
+
+==================================================
+21. SEO
+==================================================
+
+Optimize for searches such as:
+
+"Naveen Khan AI Engineer"
+
+"AI Engineer Karachi"
+
+"Machine Learning Engineer Pakistan"
+
+"Generative AI Engineer"
+
+"RAG Engineer"
+
+"Computer Vision Engineer"
+
+"Full Stack AI Engineer"
+
+Add:
+
+Title
+Meta description
+Open Graph metadata
+Twitter metadata
+Canonical URL placeholder
+Structured data / JSON-LD for Person
+
+Example title:
+
+Naveen Khan | AI Engineer | Generative AI, RAG & Computer Vision
+
+Example description:
+
+AI Engineer specializing in Generative AI, RAG, LLM applications, Computer Vision, Text-to-SQL, FastAPI and production-ready AI systems.
+
+==================================================
+22. ACCESSIBILITY
+==================================================
+
+Follow WCAG principles.
+
+Requirements:
+
+- Keyboard navigation
+- Proper semantic HTML
+- ARIA labels where needed
+- Visible focus states
+- Good color contrast
+- Alt text
+- Accessible forms
+- Reduced motion support
+
+==================================================
+23. RECRUITER EXPERIENCE
+==================================================
+
+This is extremely important.
+
+A recruiter should be able to understand the candidate quickly.
+
+Within approximately 30 seconds, the website should expose:
+
+Name
+Role
+Core expertise
+Experience
+Major achievements
+Projects
+Resume
+Contact
+
+Create a recruiter-focused quick section:
+
+"Why Hire Naveen?"
+
+Use 3–4 concise points:
+
+01 — Production AI
+Builds practical AI applications beyond notebooks.
+
+02 — Full-Stack Capability
+Can connect AI models with APIs, databases and web applications.
+
+03 — Measurable Impact
+Experience includes measurable improvements in accuracy, query resolution and workflow efficiency.
+
+04 — Research + Engineering
+Combines applied AI engineering with published research.
+
+==================================================
+24. VISUAL STORYTELLING
+==================================================
+
+Do not make the website just a collection of text sections.
+
+Use visual storytelling.
+
+For each major project show:
+
+Problem
+↓
+AI Architecture
+↓
+Implementation
+↓
+Result
+
+Use diagrams, cards and architecture blocks.
+
+Example:
+
+USER
+ ↓
+NATURAL LANGUAGE
+ ↓
+LLM
+ ↓
+RAG / TEXT-TO-SQL
+ ↓
+FASTAPI
+ ↓
+DATABASE
+ ↓
+RESULT
+ ↓
+AI SUMMARY
+
+This communicates technical ability much better than a list of technologies.
+
+==================================================
+25. PERSONAL BRAND
+==================================================
+
+Create a strong professional identity around:
+
+"AI Engineer who builds practical intelligent systems."
+
+Potential hero badge:
+
+AI ENGINEER · GENERATIVE AI · COMPUTER VISION
+
+Potential positioning statement:
+
+"From research prototypes to production-ready AI applications."
+
+Use this positioning consistently.
+
+==================================================
+26. DO NOT OVERSELL
+==================================================
+
+This is critical.
+
+Never use exaggerated claims such as:
+
+"World's Best AI Engineer"
+"AI Expert"
+"10x Engineer"
+"Industry Leader"
+
+unless explicitly supported.
+
+Prefer evidence-based statements:
+
+"Built..."
+"Engineered..."
+"Achieved..."
+"Reduced..."
+"Processed..."
+"Published..."
+"Developed..."
+
+The portfolio should demonstrate competence instead of claiming it.
+
+==================================================
+27. TECHNICAL IMPLEMENTATION
+==================================================
+
+Preferred stack:
+
+Frontend:
+Next.js
+React
+TypeScript
+
+Styling:
+Tailwind CSS
+
+Animation:
+Framer Motion
+
+Icons:
+Lucide React
+
+Backend if necessary:
+FastAPI
+
+Deployment:
+Vercel for frontend
+
+Use clean reusable components.
+
+Suggested structure:
+
+/app
+/components
+/components/ui
+/components/navigation
+/components/hero
+/components/projects
+/components/experience
+/components/research
+/components/contact
+/lib
+/data
+/public
+
+Keep portfolio content data-driven.
+
+For example:
+
+projects.ts
+experience.ts
+skills.ts
+research.ts
+
+This makes the website easy to maintain.
+
+==================================================
+28. CODE QUALITY
+==================================================
+
+Write production-quality code.
+
+Requirements:
+
+- TypeScript
+- Reusable components
+- Clean architecture
+- No duplicated code
+- Proper error handling
+- Responsive components
+- Meaningful variable names
+- No unnecessary dependencies
+- No console errors
+- No broken links
+- No placeholder lorem ipsum
+- No fake content
+
+==================================================
+29. PROJECT DETAILS
+==================================================
+
+For every project card include:
+
+Project title
+Category
+One-line value proposition
+Key technologies
+Result/impact
+View Case Study
+
+Hover effect:
+
+Card slightly lifts.
+
+Show technology badges.
+
+Do not make every card visually identical.
+
+==================================================
+30. FOOTER
+==================================================
+
+Footer should include:
+
+Naveen Khan
+
+AI Engineer building intelligent systems.
+
+Navigation links.
+
+GitHub
+LinkedIn
+Email
+
+Location:
+
+Karachi, Pakistan
+
+Copyright:
+
+© 2026 Naveen Khan. All rights reserved.
+
+==================================================
+31. FINAL QUALITY CHECK
+==================================================
+
+Before considering the website complete, verify:
+
+[ ] Looks premium
+[ ] Looks like a professional AI engineer portfolio
+[ ] Recruiter understands the candidate within 10 seconds
+[ ] Resume is easy to access
+[ ] Contact is easy to find
+[ ] Projects have measurable outcomes
+[ ] Experience is clearly visible
+[ ] Research is highlighted
+[ ] AI skills are clearly categorized
+[ ] No fake information
+[ ] No unsupported claims
+[ ] No broken links
+[ ] Mobile responsive
+[ ] Tablet responsive
+[ ] Desktop responsive
+[ ] Accessible
+[ ] SEO optimized
+[ ] Fast loading
+[ ] No console errors
+[ ] Smooth but restrained animations
+[ ] Strong visual hierarchy
+[ ] Excellent typography
+[ ] Professional copywriting
+
+==================================================
+32. MOST IMPORTANT DESIGN PRINCIPLE
+==================================================
+
+Do not build a portfolio that says:
+
+"Look how many technologies I know."
+
+Build a portfolio that says:
+
+"Here are the real AI problems I solved, how I engineered the solutions, and the measurable results."
+
+The website should feel like:
+
+AI ENGINEER
++
+SOFTWARE ENGINEER
++
+RESEARCHER
++
+PRODUCT BUILDER
+
+not simply:
+
+"Student Portfolio."
+
+The final result should be sophisticated enough that an AI startup founder or engineering manager would want to contact Naveen after browsing the website for 1–2 minutes.
